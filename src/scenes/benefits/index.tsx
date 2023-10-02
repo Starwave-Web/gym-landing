@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { BenefitType, SelectedPage } from '@/shared/types'
 import {HomeModernIcon, UserGroupIcon, AcademicCapIcon} from "@heroicons/react/24/solid"
 import { motion } from 'framer-motion'
