@@ -21,7 +21,6 @@ const Footer = () => {
                 <h4 className="font-bold">Contact Us</h4>
                 <p className="my-5">Tempus metus mattis risus volutpat egestas</p>
                 <p>(333)425-6825</p>
-                
             </div>
 
         </div>
