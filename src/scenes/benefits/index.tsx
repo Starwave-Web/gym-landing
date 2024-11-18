@@ -114,10 +114,10 @@ const Benefits = ({setSelectedPage}: Props) => {
                 }}
               >
                 <p className='my-5'>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque laboriosam fuga veritatis. Nisi beatae doloremque voluptate quibusdam laudantium fuga, aspernatur ex officiis, minus aliquam sint eos quae ad non ipsum!
+                Get fit, stay healthy! Join our gym today for expert coaching, state-of-the-art equipment, and a supportive community. Your fitness journey starts here!
                 </p>
                 <p className='mb-5'>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor architecto ea maxime, repellat repudiandae exercitationem, odio deserunt modi atque illo qui, iure esse molestiae eveniet magni consectetur doloribus. Voluptatibus, corporis.
+                Transform your body and mind with personalized training programs tailored to your goals. Whether you're a beginner or a fitness pro, we’ve got you covered. Don’t wait—unlock your potential and achieve results you’ve always dreamed of. Join us and start today!
                 </p>
               </motion.div>
               <div className='relative mt-16'>

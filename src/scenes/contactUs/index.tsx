@@ -44,7 +44,7 @@ const onSubmit = async (e: any) => {
                 }}
             >
                 <HText><span className="text-primary-500">JOIN NOW</span> TO GET IN SHAPE</HText>
-                <p className="my-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore deleniti nobis temporibus beatae vero modi dolore facilis facere cupiditate explicabo eum itaque laudantium repudiandae repellat exercitationem veritatis et, optio consequuntur?</p>
+                <p className="my-5">Join now and take the first step towards a healthier, stronger you! With expert trainers, dynamic classes, and a motivating community, getting in shape has never been easier. Don’t wait—sign up today and start your fitness journey!</p>
             </motion.div>
             <div className="mt-10 justify-between gap-8 md:flex">
                 <motion.div className="mt-10 basis-3/5 md:mt-0"
