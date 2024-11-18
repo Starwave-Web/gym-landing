@@ -67,7 +67,7 @@ const OurClasses = ({setSelectedPage}: Props) => {
                 >
                     <div className='md:w-3/5'>
                         <HText>OUR CLASSES</HText>
-                        <p className='py-5'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsum molestiae odit quisquam quibusdam, repellat, laborum omnis facere laboriosam placeat illo amet minus exercitationem minima numquam consequuntur velit nulla, quam expedita!</p>
+                        <p className='py-5'>Our classes are designed for all fitness levels! From energizing group workouts to focused yoga sessions and intense strength training, there’s something for everyone. Join our expert-led classes to stay motivated, have fun, and reach your goals faster. Explore your options today!</p>
                     </div>
                 </motion.div>
                 <div className='mt-10 h-[353px] w-full overflow-x-auto overflow-y-hidden'>
